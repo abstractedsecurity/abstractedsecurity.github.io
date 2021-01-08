@@ -1,8 +1,5 @@
 ## AbstractedSecurity
 
-You can use the [editor on GitHub](https://github.com/abstractedsecurity/abstractedsecurity.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Home of the Hacker Field Reference. For more information, please visit the application within the App Store or contact us with the below email!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+hello[at]abstractedsecurity.com
